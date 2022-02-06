@@ -1,0 +1,6 @@
+['remote "dvc_origin"']
+    url = gs://ml-ops-fundamentals-bucket
+['remote "dvc_origin_data"']
+    url = gs://ml-ops-fundamentals-bucket/DVC_DATA
+['remote "dvc_origin_model"']
+    url = gs://ml-ops-fundamentals-bucket/DVC_MODEL
