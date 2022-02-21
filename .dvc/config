@@ -8,3 +8,5 @@
     url = gs://ml-ops-fundamentals-bucket/DVC_MODEL
 ['remote "remote_data_storage"']
     url = gs://ml-ops-fundamentals-bucket/DVC_DATA
+
+
